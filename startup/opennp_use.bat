@@ -1,0 +1,1 @@
+"C:\Program Files\npp.7.5.1.bin.x64\notepad++.exe" "d:\JM\Project\TTT\D7GC\C_pkg\Inp&Res\180002_D7GC_C_pkg_Gload.inp"

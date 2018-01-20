@@ -1,0 +1,5 @@
+*deletemodel()
+        *answer(yes)
+        *feinputpreserveincludefiles()
+        *createstringarray(2) "Abaqus " "Standard3D "
+        *feinputwithdata2("#abaqus\abaqus", "d:\JM\Project\HEX\330K\Muffler\Inp&Res\330K_Muffler_Steps_001.inp",0,0,0,0,0,1,2,1,0)

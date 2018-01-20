@@ -1,0 +1,1 @@
+"D:\Program Files\Altair\13.0\hm\bin\win64\hmopengl.exe" "-cD:\JM\startup\hm_open_model.cmf"

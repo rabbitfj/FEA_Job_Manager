@@ -1,0 +1,1 @@
+"C:\Program Files\npp.7.5.1.bin.x64\notepad++.exe" D:\JM\hm\command.cmf

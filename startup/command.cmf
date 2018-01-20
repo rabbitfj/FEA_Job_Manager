@@ -1,0 +1,107 @@
+*begin("version 13.0.0.119  11-23-2017  22:25:16")
+*menufilterset("*")
+*menufilterdisable()
+*deletemodel()
+*answer(yes)
+*feinputpreserveincludefiles()
+*createstringarray(2) "Abaqus " "Standard3D "
+*feinputwithdata2("#abaqus\abaqus","D:/JM/hm/test.inp",0,0,0,0,0,1,2,1,0)
+*setdisplayattributes(2,0)
+*quit() "11-23-2017  22:25:34"
+
+*begin("version 13.0.0.119  12-6-2017  23:19:02")
+*menufilterset("*")
+*menufilterdisable()
+*quit() "12-6-2017  23:19:19"
+
+*begin("version 13.0.0.119  12-6-2017  23:21:04")
+*menufilterset("*")
+*menufilterdisable()
+*quit() "12-6-2017  23:21:27"
+
+*begin("version 13.0.0.119  12-6-2017  23:21:34")
+*menufilterset("*")
+*menufilterdisable()
+*quit() "12-6-2017  23:21:40"
+
+*begin("version 13.0.0.119  12-6-2017  23:22:57")
+*menufilterset("*")
+*menufilterdisable()
+*deletemodel()
+*answer(yes)
+*feinputpreserveincludefiles()
+*createstringarray(2) "Abaqus " "Standard3D "
+*feinputwithdata2("#abaqus\abaqus","D:/JM/Project/EMD/MHEX/350K/Muffler/Inp&Res/350K_Muffler_FEM_001.inp",0,0,0,0,0,1,2,1,0)
+*feinputpreserveincludefiles()
+*createstringarray(2) "HyperMesh " " "
+*feinputwithdata2("#abaqus\abaqus","D:/JM/Project/EMD/MHEX/350K/Muffler/Inp&Res/350K_Muffler_FEM_001.inp",0,0,0,0,0,1,2,1,0)
+*feinputpreserveincludefiles()
+*createstringarray(2) "HyperMesh " " "
+*feinputwithdata2("#abaqus\abaqus","D:/JM/startup/test.inp",0,0,0,0,0,1,2,1,0)
+*begin("version 13.0.0.119  12-6-2017  23:25:24")
+*menufilterset("*")
+*menufilterdisable()
+*quit() "12-6-2017  23:25:32"
+
+*begin("version 13.0.0.119  12-6-2017  23:26:23")
+*menufilterset("*")
+*menufilterdisable()
+*deletemodel()
+*answer(yes)
+*feinputpreserveincludefiles()
+*createstringarray(2) "Abaqus " "Standard3D "
+*feinputwithdata2("#abaqus\abaqus","D:/JM/test.inp",0,0,0,0,0,1,2,1,0)
+*begin("version 13.0.0.119  12-6-2017  23:27:12")
+*menufilterset("*")
+*menufilterdisable()
+*deletemodel()
+*answer(yes)
+*feinputpreserveincludefiles()
+*createstringarray(2) "Abaqus " "Standard3D "
+*feinputwithdata2("#abaqus\abaqus","D:/JM/startup/test.inp",0,0,0,0,0,1,2,1,0)
+*quit() "12-6-2017  23:27:33"
+
+*begin("version 13.0.0.119  12-6-2017  23:28:09")
+*menufilterset("*")
+*menufilterdisable()
+*deletemodel()
+*answer(yes)
+*feinputpreserveincludefiles()
+*createstringarray(2) "Abaqus " "Standard3D "
+*feinputwithdata2("#abaqus\abaqus","D:/JM/startup/test.inp",0,0,0,0,0,1,2,1,0)
+*viewset(1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,5.98568719,-3.41726613,115.985687,106.582734)
+*rotateabout(0,0,0,0)
+*viewset(1,0,0,0,0,1,0,0,0,0,1,0,66.4118039,5.03033706,0,1,-309.008736,-318.411689,430.98011,421.577157)
+*rotateabout(1,70,50,0)
+*rotateabout(1,70,50,0)
+*viewset(0.998345894,0.0305441692,-0.0487086242,0,-0.0570328494,0.633143459,-0.771930446,0,0.00726157262,0.773431583,0.633838194,0,69.3792338,21.2350723,42.006126,1,-309.008736,-318.411689,430.98011,421.577157)
+*quit() "12-6-2017  23:28:20"
+
+*begin("version 13.0.0.119  12-6-2017  23:28:40")
+*menufilterset("*")
+*menufilterdisable()
+*deletemodel()
+*answer(yes)
+*feinputpreserveincludefiles()
+*createstringarray(2) "Abaqus " "Standard3D "
+*feinputwithdata2("#abaqus\abaqus","D:\JM\startup\test.inp",0,0,0,0,0,1,2,1,0)
+*viewset(1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1,-0.546343028,-0.35071921,109.453657,109.649281)
+*rotateabout(0,0,0,0)
+*viewset(1,0,0,0,0,1,0,0,0,0,1,0,6.77202255,31.6925182,0,1,-207.171908,-206.976285,316.079222,316.274846)
+*rotateabout(1,60,50,0)
+*begin("version 13.0.0.119  12-6-2017  23:33:54")
+*menufilterset("*")
+*menufilterdisable()
+*deletemodel()
+*answer(yes)
+*feinputpreserveincludefiles()
+*createstringarray(2) "Abaqus " "Standard3D "
+*feinputwithdata2("#abaqus\abaqus","D:\JM\startup\test.inp",0,0,0,0,0,1,2,1,0)
+*quit() "12-6-2017  23:34:06"
+
+*quit() "12-6-2017  23:58:44"
+
+*quit() "12-6-2017  23:58:49"
+
+*quit() "12-6-2017  23:58:50"
+
